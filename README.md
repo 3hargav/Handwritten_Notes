@@ -1,2 +1,2 @@
-# electrical-notes-
-The complete electrical notes for 3rd semester students.
+# Handwritten_Notes
+Handwritten_Notes for some of the courses that I have taken.
